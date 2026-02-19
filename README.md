@@ -65,6 +65,7 @@ Bu uygulamanın amacı:
 
 ---
 
+
 # 👨‍💻 Geliştirici
 
 Bu proje mobil uygulama geliştirme deneyimi kazanmak amacıyla geliştirilmiştir.
@@ -72,3 +73,7 @@ Bu proje mobil uygulama geliştirme deneyimi kazanmak amacıyla geliştirilmişt
 ---
 
 <img width="428" height="429" alt="Ekran görüntüsü 2026-02-19 125502" src="https://github.com/user-attachments/assets/0b74a684-3cf3-43de-922b-63c4e263c81d" />
+
+Uygulamanın Youtube Video Linki:
+https://www.youtube.com/shorts/koHWgLNQ0Sc
+
